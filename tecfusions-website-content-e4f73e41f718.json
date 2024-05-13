@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tecfusions-website-content",
+  "private_key_id": "e4f73e41f7180631e79ebd6c55aa5ce0ce78b570",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDOb7paTu6wwtC/\ntPEjcnFBSMbqwpf8FK56zQZ40G2VjD4CpDbCmhisUGcksIAMPu29tJ3PnKDWSoQP\nHhvNgbIDzZTuRYJL5bWQIsVpHMKUg/oKqRR5exCRodskFo586hIeBN2qTPQcXYoV\nL+t0OgrmiUwJGj/UEmEr4iPV92lmQEzgWT3ANuwf1gd4QRkQMvWzh+VtFHM6eNs6\nrC1h2ma6TPdEnS+y0AJA6j5GRRLFIR7kNrMA4YXJXPevi3wJf/raJQUG0FYhW/Lu\nA7qwPZEEnrQJxZAnSmerW+50vqSVlTu4FTmDRUNq+o3qkw9ZyYwYnPQH2yTzT8KQ\n2J9Nq0m1AgMBAAECggEACfm9BKv/nZ6Nuv8pz5JHlfBH888LTEo34+Vq7I/OhSrA\nUgfbQTxJjhrE39wV6qGS2EyKpgjrU8JI5I3KVFFcsmbZjXRh7LwmXIH1o1PutNcL\neumQkfiSryWQuEsiamJe6uubcOU5lEen38i6RRpLQw3Q6mKwlr/8SUQrAlCrm54l\nvAXOdOzYb3JzOQAHar2eN/DjmMA3qDcJJ23pNfNoevaJ39t5edW0++YKL/SbCToA\n7h3QVLgu2wl6a8JSLvwQcIY1LXpWBbhRy0Zm9w0q+p3AbeqTrYxzyRq77LG+fRj/\nwwVzA2t2Jf06nSvMG4d8mSVEiq2OodPbQYYAkC0S0QKBgQD0PpoSKqQ2JOMHcSJX\nZ3kDLhgOTirVCf3yCcwjndqtv176dOzKsKHcamJ0rUQsdyxYiKNtJMa4RV2m3qi2\niynfPsSku35fcaNmf8BDhOGVF+tHiQ+BS5/a1sj2IJaFJAi7K4wQO6kdm3w1jEfd\nusl/ThLi1NGj6OaL5nyB+kmzUQKBgQDYX0hzgKqFglMbV0FSCW4UX4eaXISG3fOT\nVucxutdl2d9/VfFD5shKCzu/cI/dckS1bShU294oDdXuYtJoKEzmEPsEzo5M/MwM\nje9uS28BRT6XoqDDgJZm2LH0aEH5uDNDng2nqdq1g3NUaKJoEjzEesrQn2xQa6n9\naOi/jHCvJQKBgAaT7QhSN6vxoF+h71/VPJAWXLV9629jXoB3PRU0eiA1yDQMlBf9\nW86Y2t/zjqN37izQOT6GQAfUbmpBEuAfrVgC077wAb5GTDVFeYMYAA9I3qBFk7JS\nvBJjuHPQet1JFCceTB5fzPUsK9MxXPoevrB8BMwxGRhF/HeGFJJXkEaRAoGAFaQ6\nH+tfoujtHQ/2JZlx3DHN41+blc2/Xh5UE4JHpxVKqHbVIeCEafuDp1s/2Htkae0Y\nGpy/NKxlmGlj+C0Hu/84zDtIumSSmDLeHt8GpE7jutD2WXeUE4dbDUIcTzjgT8QQ\nQ5PWn08divTIQbaJQ3GwtXssn0KVhxYmKXqHjs0CgYA0aFLgTR0Rf5hEe/BwTJOh\nUXcnxrkgjIl+FgJCV+azg0OWsSHeFdlKdOebtIXPLahKPIjCj5XnIC9tfZ8PGQQt\nxVe94/gzdfQTbgARZ0sSMds/IZiitnHFI9uG/MYLX+WNXG4Hzfz8aHNxF8IaP2Su\nmZfOPjXtuSJuNVXQKcrltQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tecfusions@tecfusions-website-content.iam.gserviceaccount.com",
+  "client_id": "115979720090342916204",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tecfusions%40tecfusions-website-content.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
